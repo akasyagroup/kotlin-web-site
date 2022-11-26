@@ -1609,13 +1609,13 @@
     classnames "^2.2.6"
     core-js "^3.9.1"
 
-"@rescui/button@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@rescui/button/-/button-0.3.0.tgz#8666e1832c7974dfb58c8fd00f7557584f5f58eb"
-  integrity sha512-QuPwECqpTyJLay8acwYPFygHuLRt6dpJKYQwMs2bN/5r++81JyAF4Wg+AZ6nuMKrKRKzRYjP9iHSjaEUKFtveA==
+"@rescui/button@^0.7.0":
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/@rescui/button/-/button-0.7.2.tgz#c95464f81d5b43adaddeab657c427cfc90aa18cb"
+  integrity sha512-RJSminpg3bjfiVAV7maETHicST2EBcVDa8rXKy9mz5Phr1P607F+KOlSXsYZp49T5fHmdOBfFlsZU6pE9Oi6EQ==
   dependencies:
     "@babel/runtime-corejs3" "^7.14.0"
-    "@rescui/icons" "^0.2.0"
+    "@rescui/icons" "^0.10.1"
     classnames "^2.2.6"
     core-js "^3.9.1"
 
@@ -1684,10 +1684,10 @@
     "@babel/runtime-corejs3" "^7.14.0"
     core-js "^3.9.1"
 
-"@rescui/icons@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@rescui/icons/-/icons-0.2.0.tgz#dc019f29164d63cab7bd39148e86c1660cc01713"
-  integrity sha512-w7TJLzmF0TCYWrL99zTFZ27DaZQILO8SJ7SEDCQjCemad5t0js6NtCh3+DZ7l+BLUyeGW1hP7QjxvxqKBYRHMA==
+"@rescui/icons@^0.10.0", "@rescui/icons@^0.10.1":
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/@rescui/icons/-/icons-0.10.1.tgz#b4b801e11a1b5382bbc4f3344f68a69f60df22d6"
+  integrity sha512-oaNkunQrJ5wSdWTIZqm6xElxucYmHYXFPVzB0kpXru6WztUt73PGspgSPKBigYCkpTV1o1U21jlWiFJl8E/IoQ==
   dependencies:
     "@babel/runtime-corejs3" "^7.14.0"
     classnames "^2.2.6"
@@ -1758,15 +1758,15 @@
     core-js "^3.9.1"
     react-resize-detector "^6.7.3"
 
-"@rescui/tab-list@0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@rescui/tab-list/-/tab-list-0.3.0.tgz#a9408064bb8657f298bf1c1780d9c32470e3f640"
-  integrity sha512-1NTkBi1fk0SsuQIcs+AdKoVaUvvPVVD/RLfDX0ZlPxtRFpzUppgpfN2jST0Bz2B8Wvj0TuystQAhHSoi4VL8uQ==
+"@rescui/tab-list@0.7.11":
+  version "0.7.11"
+  resolved "https://registry.yarnpkg.com/@rescui/tab-list/-/tab-list-0.7.11.tgz#849d0c32a744ed4cd2bff2d5c0c680c0f3437235"
+  integrity sha512-XY8aWygQixpWmS+AqbA1AgyPrF4QMoqcwzIojX3GT1n/yEOxoyDawr3rH8os1y5ZVj/qtHlcvJz077XaE7gLuw==
   dependencies:
     "@babel/runtime-corejs3" "^7.14.0"
     "@juggle/resize-observer" "3.3.0"
-    "@rescui/button" "^0.3.0"
-    "@rescui/icons" "^0.2.0"
+    "@rescui/button" "^0.7.0"
+    "@rescui/icons" "^0.10.0"
     classnames "^2.2.6"
     core-js "^3.9.1"
 
